@@ -1,0 +1,6 @@
+{
+  "name": "VibeTrading",
+  "description": "A premium dark-themed stock market overview, watchlists, blog education, and analytics tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
